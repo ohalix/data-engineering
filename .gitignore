@@ -1,3 +1,4 @@
+taxi_zone_lookup.csv
 *.parquet
 
 # Byte-compiled / optimized / DLL files
