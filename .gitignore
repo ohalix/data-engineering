@@ -1,5 +1,6 @@
 taxi_zone_lookup.csv
 *.parquet
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
